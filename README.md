@@ -127,7 +127,8 @@ This course will introduce you to the world of computer science and programming.
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-✅ [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 14 weeks | 6-10 hours/week | [high school algebra](FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/jvchSm9)
+✅ | [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 14 weeks | 6-10 hours/week | [high school algebra](FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/jvchSm9)
+✅ | [[https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!][Introduction to Computer Science - CS50]] ([[https://cs50.harvard.edu/][alt]])                 | 12 weeks | 10-20 hours/week | none                | x     |
 
 ## Core CS
 
@@ -157,6 +158,9 @@ Courses | Duration | Effort | Prerequisites | Discussion
 ✅[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 4-8 hours/week | Programming Languages, Part B | [chat](https://discord.gg/8EZUVbA)
 [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 13 weeks | 5-10 hours/week | Class Based Program Design | [chat](https://discord.com/channels/744385009028431943/891412022120579103)
 [Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 2-5 hours/week | Object Oriented Design | [chat](https://discord.com/channels/744385009028431943/891412169638432788)
+✅ | [[https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x][Software Construction - Object-Oriented Design]] | 6 weeks  | 8-10 hours/week  | Software Construction - Data Abstraction | X     |
+| [[https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/course/][Web Programming with JS CS50]]                   | 12 weeks | 10-15 hours/week | none                                     |       |
+
 
 ### Core math
 Discrete math (Math for CS) is a prerequisite and closely related to the study of algorithms and data structures. Calculus both prepares students for discrete math and helps students develop mathematical maturity.
