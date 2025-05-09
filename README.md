@@ -174,7 +174,7 @@ Discrete math (Math for CS) is a prerequisite and closely related to the study o
 `and more`
 
 Status | Courses | Duration | Effort | Notes | Prerequisites | Discussion
-:-- | :-- | :--: | :--: | :--: | :--: | :--:
+:-- | :--: | :--: | :--: | :--: | :--: | :--:
 
 ✅ | [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!) ([[http://ulaff.net/][alt]])   | 15 weeks | 8 hours/week  | - | Essence of Linear Algebra | none
 ? | [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) ([alternative](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)) | 13 weeks | 6-10 hours/week | The alternate covers this and the following 2 courses | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/mPCt45F)
